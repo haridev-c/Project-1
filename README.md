@@ -1,2 +1,2 @@
 # Project-1
- My first website
+A simple project that lists three names and three buttons corresponding to each name that deletes the name when a corresponding button is clicked. 
